@@ -1,0 +1,2 @@
+tk==0.1.0
+email-validator==1.1.3
